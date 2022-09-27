@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f04978f.css",
+    "main.js": "/static/js/main.fc15d3ef.js",
+    "static/media/torus-semibold.woff2": "/static/media/torus-semibold.303f72cc1657be6c87a1.woff2",
+    "static/media/torus-bold.woff2": "/static/media/torus-bold.f292c89c8bf46687dc4c.woff2",
+    "static/media/torus-regular.woff2": "/static/media/torus-regular.f534f20e62eb19810671.woff2",
+    "static/media/torus-heavy.woff2": "/static/media/torus-heavy.cf10d679f290e05e8520.woff2",
+    "static/media/torus-light.woff2": "/static/media/torus-light.ffda6512f668e6da00d1.woff2",
+    "static/media/torus-thin.woff2": "/static/media/torus-thin.a5a54b9bc69dc59ac38e.woff2",
+    "static/media/torus-italic.woff": "/static/media/torus-italic.44df630fdc25eac0a708.woff",
+    "index.html": "/index.html",
+    "main.9f04978f.css.map": "/static/css/main.9f04978f.css.map",
+    "main.fc15d3ef.js.map": "/static/js/main.fc15d3ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f04978f.css",
+    "static/js/main.fc15d3ef.js"
+  ]
+}
