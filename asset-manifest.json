@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.aeec76db.css",
+    "main.css": "/static/css/main.e7f13540.css",
     "main.js": "/static/js/main.e97546ce.js",
-    "static/media/home-banner.jpg": "/static/media/home-banner.9e2216012fc03e087894.jpg",
     "static/media/home-banner-mob.jpg": "/static/media/home-banner-mob.352e3cc3d4a70362ecf1.jpg",
+    "static/media/home-banner.jpg": "/static/media/home-banner.6bf2d1ccfa9f9bc764b6.jpg",
     "static/media/salesforce-light.woff": "/static/media/salesforce-light.6d38ea3d22d0b71121c3.woff",
     "static/media/salesforce-thin.woff": "/static/media/salesforce-thin.406795ddde92147ae245.woff",
     "static/media/torus-semibold.woff2": "/static/media/torus-semibold.303f72cc1657be6c87a1.woff2",
@@ -15,11 +15,11 @@
     "static/media/jaysonf.svg": "/static/media/jaysonf.a20b0247b893b95d41c758e3a9d51542.svg",
     "static/media/torus-italic.woff": "/static/media/torus-italic.44df630fdc25eac0a708.woff",
     "index.html": "/index.html",
-    "main.aeec76db.css.map": "/static/css/main.aeec76db.css.map",
+    "main.e7f13540.css.map": "/static/css/main.e7f13540.css.map",
     "main.e97546ce.js.map": "/static/js/main.e97546ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeec76db.css",
+    "static/css/main.e7f13540.css",
     "static/js/main.e97546ce.js"
   ]
 }
