@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f04978f.css",
-    "main.js": "/static/js/main.fc15d3ef.js",
+    "main.css": "/static/css/main.aeec76db.css",
+    "main.js": "/static/js/main.e97546ce.js",
+    "static/media/home-banner.jpg": "/static/media/home-banner.9e2216012fc03e087894.jpg",
+    "static/media/home-banner-mob.jpg": "/static/media/home-banner-mob.352e3cc3d4a70362ecf1.jpg",
+    "static/media/salesforce-light.woff": "/static/media/salesforce-light.6d38ea3d22d0b71121c3.woff",
+    "static/media/salesforce-thin.woff": "/static/media/salesforce-thin.406795ddde92147ae245.woff",
     "static/media/torus-semibold.woff2": "/static/media/torus-semibold.303f72cc1657be6c87a1.woff2",
     "static/media/torus-bold.woff2": "/static/media/torus-bold.f292c89c8bf46687dc4c.woff2",
     "static/media/torus-regular.woff2": "/static/media/torus-regular.f534f20e62eb19810671.woff2",
     "static/media/torus-heavy.woff2": "/static/media/torus-heavy.cf10d679f290e05e8520.woff2",
     "static/media/torus-light.woff2": "/static/media/torus-light.ffda6512f668e6da00d1.woff2",
     "static/media/torus-thin.woff2": "/static/media/torus-thin.a5a54b9bc69dc59ac38e.woff2",
+    "static/media/jaysonf.svg": "/static/media/jaysonf.a20b0247b893b95d41c758e3a9d51542.svg",
     "static/media/torus-italic.woff": "/static/media/torus-italic.44df630fdc25eac0a708.woff",
     "index.html": "/index.html",
-    "main.9f04978f.css.map": "/static/css/main.9f04978f.css.map",
-    "main.fc15d3ef.js.map": "/static/js/main.fc15d3ef.js.map"
+    "main.aeec76db.css.map": "/static/css/main.aeec76db.css.map",
+    "main.e97546ce.js.map": "/static/js/main.e97546ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f04978f.css",
-    "static/js/main.fc15d3ef.js"
+    "static/css/main.aeec76db.css",
+    "static/js/main.e97546ce.js"
   ]
 }
