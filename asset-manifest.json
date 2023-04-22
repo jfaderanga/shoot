@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd9dedcf.css",
-    "main.js": "/static/js/main.8940985d.js",
+    "main.css": "/static/css/main.b0756a62.css",
+    "main.js": "/static/js/main.c1ae9827.js",
     "static/media/home-banner-mob.jpg": "/static/media/home-banner-mob.352e3cc3d4a70362ecf1.jpg",
     "static/media/home-banner.jpg": "/static/media/home-banner.6bf2d1ccfa9f9bc764b6.jpg",
     "static/media/salesforce-light.woff": "/static/media/salesforce-light.6d38ea3d22d0b71121c3.woff",
@@ -15,11 +15,11 @@
     "static/media/torus-thin.woff2": "/static/media/torus-thin.a5a54b9bc69dc59ac38e.woff2",
     "static/media/torus-italic.woff": "/static/media/torus-italic.44df630fdc25eac0a708.woff",
     "index.html": "/index.html",
-    "main.fd9dedcf.css.map": "/static/css/main.fd9dedcf.css.map",
-    "main.8940985d.js.map": "/static/js/main.8940985d.js.map"
+    "main.b0756a62.css.map": "/static/css/main.b0756a62.css.map",
+    "main.c1ae9827.js.map": "/static/js/main.c1ae9827.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd9dedcf.css",
-    "static/js/main.8940985d.js"
+    "static/css/main.b0756a62.css",
+    "static/js/main.c1ae9827.js"
   ]
 }
