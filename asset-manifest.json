@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.096a6225.css",
-    "main.js": "/static/js/main.c1ae9827.js",
+    "main.css": "/static/css/main.4b45f91a.css",
+    "main.js": "/static/js/main.21b913e0.js",
+    "static/media/home-banner2.jpg": "/static/media/home-banner2.9cf279a48d3fae05a287.jpg",
     "static/media/home-banner.jpg": "/static/media/home-banner.e7125480c4737ad2548f.jpg",
     "static/media/home-banner-mob.jpg": "/static/media/home-banner-mob.7278a365c17c96b16db7.jpg",
+    "static/media/home-banner2-mob.jpg": "/static/media/home-banner2-mob.389098a62a2f615d2412.jpg",
     "static/media/salesforce-light.woff": "/static/media/salesforce-light.6d38ea3d22d0b71121c3.woff",
     "static/media/salesforce-thin.woff": "/static/media/salesforce-thin.406795ddde92147ae245.woff",
     "static/media/torus-semibold.woff2": "/static/media/torus-semibold.303f72cc1657be6c87a1.woff2",
@@ -13,13 +15,15 @@
     "static/media/torus-heavy.woff2": "/static/media/torus-heavy.cf10d679f290e05e8520.woff2",
     "static/media/torus-light.woff2": "/static/media/torus-light.ffda6512f668e6da00d1.woff2",
     "static/media/torus-thin.woff2": "/static/media/torus-thin.a5a54b9bc69dc59ac38e.woff2",
+    "static/media/watermark.svg": "/static/media/watermark.8f7ed4f0d107fb17b2a12ff73cea2825.svg",
     "static/media/torus-italic.woff": "/static/media/torus-italic.44df630fdc25eac0a708.woff",
+    "static/media/slide-down.svg": "/static/media/slide-down.e1043cc07ef99030d322d5230589200d.svg",
     "index.html": "/index.html",
-    "main.096a6225.css.map": "/static/css/main.096a6225.css.map",
-    "main.c1ae9827.js.map": "/static/js/main.c1ae9827.js.map"
+    "main.4b45f91a.css.map": "/static/css/main.4b45f91a.css.map",
+    "main.21b913e0.js.map": "/static/js/main.21b913e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.096a6225.css",
-    "static/js/main.c1ae9827.js"
+    "static/css/main.4b45f91a.css",
+    "static/js/main.21b913e0.js"
   ]
 }
