@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1fe26ae0.css",
-    "main.js": "/static/js/main.d2e62be0.js",
+    "main.js": "/static/js/main.6eae2767.js",
     "static/media/home-banner2.jpg": "/static/media/home-banner2.9cf279a48d3fae05a287.jpg",
     "static/media/footer_city_white.png": "/static/media/footer_city_white.1469854d97e1a2f68009.png",
     "static/media/nz_mount_ruapehu_snowboard.jpg": "/static/media/nz_mount_ruapehu_snowboard.2966d0641e6f52f3fcc6.jpg",
@@ -101,10 +101,10 @@
     "index.html": "/index.html",
     "static/media/shutter.svg": "/static/media/shutter.d5f06605e7f4af3dffe2509841e5664f.svg",
     "main.1fe26ae0.css.map": "/static/css/main.1fe26ae0.css.map",
-    "main.d2e62be0.js.map": "/static/js/main.d2e62be0.js.map"
+    "main.6eae2767.js.map": "/static/js/main.6eae2767.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe26ae0.css",
-    "static/js/main.d2e62be0.js"
+    "static/js/main.6eae2767.js"
   ]
 }
