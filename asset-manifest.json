@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1fe26ae0.css",
-    "main.js": "/static/js/main.43109f49.js",
+    "main.js": "/static/js/main.a8974b32.js",
     "static/media/home-banner2.jpg": "/static/media/home-banner2.9cf279a48d3fae05a287.jpg",
     "static/media/footer_city_white.png": "/static/media/footer_city_white.1469854d97e1a2f68009.png",
     "static/media/nz_mount_ruapehu_snowboard.jpg": "/static/media/nz_mount_ruapehu_snowboard.2966d0641e6f52f3fcc6.jpg",
@@ -40,6 +40,7 @@
     "static/media/au_hardbour_bridge_flag.jpg": "/static/media/au_hardbour_bridge_flag.61be7a9ea23e82e148fe.jpg",
     "static/media/nz_mount_ngauruhoe3.jpg": "/static/media/nz_mount_ngauruhoe3.64dd8e07cfac1186f503.jpg",
     "static/media/nz_hamilton_hobbit_hole2.jpg": "/static/media/nz_hamilton_hobbit_hole2.60c3968a99354fd2cc4c.jpg",
+    "static/media/nz_the_keeper.jpg": "/static/media/nz_the_keeper.af442cbe82b5318b9089.jpg",
     "static/media/au_sydney_lizard.jpg": "/static/media/au_sydney_lizard.2255fff5e34e6f0a2dc8.jpg",
     "static/media/nz_haverstock_clouds3.jpg": "/static/media/nz_haverstock_clouds3.ac8b9cc261e87a3b08a5.jpg",
     "static/media/nz_haverstock_clouds.jpg": "/static/media/nz_haverstock_clouds.798441d9f80fb2191815.jpg",
@@ -107,9 +108,11 @@
     "static/media/au_sydney_lunapark_blazing_cloud2.jpg": "/static/media/au_sydney_lunapark_blazing_cloud2.1dc59b7745c06e07bb6c.jpg",
     "static/media/nz_portrait2.jpg": "/static/media/nz_portrait2.dc8da23399e604a64497.jpg",
     "static/media/au_melbourne_galah.jpg": "/static/media/au_melbourne_galah.4b77f6849905519f325a.jpg",
+    "static/media/nz_mount_ruapehu_ski3.jpg": "/static/media/nz_mount_ruapehu_ski3.e3459b93f59218e82226.jpg",
     "static/media/nz_the_chin.jpg": "/static/media/nz_the_chin.6bec010adfacb8f445d9.jpg",
     "static/media/au_tussauds_aquaman.jpg": "/static/media/au_tussauds_aquaman.7ff87dc7e611ec984049.jpg",
     "static/media/nz_piha_dog.jpg": "/static/media/nz_piha_dog.1b4daa9c0ecbc14e5d6e.jpg",
+    "static/media/nz_seventy_six.jpg": "/static/media/nz_seventy_six.51e83a84fc165334f3ce.jpg",
     "static/media/nz_mount_ruapehu_snowboard2.jpg": "/static/media/nz_mount_ruapehu_snowboard2.2579f3ed7eda88ed2e9c.jpg",
     "static/media/nz_haverstock_clouds2.jpg": "/static/media/nz_haverstock_clouds2.1e800b288108339f2a1d.jpg",
     "static/media/avatar.png": "/static/media/avatar.8b74836ab35d730511fc.png",
@@ -128,10 +131,10 @@
     "index.html": "/index.html",
     "static/media/shutter.svg": "/static/media/shutter.d5f06605e7f4af3dffe2509841e5664f.svg",
     "main.1fe26ae0.css.map": "/static/css/main.1fe26ae0.css.map",
-    "main.43109f49.js.map": "/static/js/main.43109f49.js.map"
+    "main.a8974b32.js.map": "/static/js/main.a8974b32.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe26ae0.css",
-    "static/js/main.43109f49.js"
+    "static/js/main.a8974b32.js"
   ]
 }
