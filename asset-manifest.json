@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f9b241b2.css",
-    "main.js": "/static/js/main.a8974b32.js",
+    "main.js": "/static/js/main.dde55a0e.js",
     "static/media/home-banner2.jpg": "/static/media/home-banner2.9cf279a48d3fae05a287.jpg",
     "static/media/footer_city_white.png": "/static/media/footer_city_white.1469854d97e1a2f68009.png",
     "static/media/nz_mount_ruapehu_snowboard.jpg": "/static/media/nz_mount_ruapehu_snowboard.2966d0641e6f52f3fcc6.jpg",
@@ -28,9 +28,11 @@
     "static/media/nz_bastion_point_city2.jpg": "/static/media/nz_bastion_point_city2.a099786eb398c4b7cb12.jpg",
     "static/media/au_sydney_koala1.jpg": "/static/media/au_sydney_koala1.f95486b1dd12786a089a.jpg",
     "static/media/nz_botanic_garden_bumblebee.jpg": "/static/media/nz_botanic_garden_bumblebee.d7873a600f1cfe7244ed.jpg",
+    "static/media/nz_football_field1.jpg": "/static/media/nz_football_field1.95d1feefc7844c3cb6fd.jpg",
     "static/media/nz_hamilton_entanglement.jpg": "/static/media/nz_hamilton_entanglement.6f9376780bfec18171f0.jpg",
     "static/media/au_sydney_operahouse_night2.jpg": "/static/media/au_sydney_operahouse_night2.877e32bdfc4c84d0e49e.jpg",
     "static/media/au_tussauds_queen.jpg": "/static/media/au_tussauds_queen.080969dcb16fcda1778e.jpg",
+    "static/media/nz_football_field2.jpg": "/static/media/nz_football_field2.5f7e849a7fdc444849ec.jpg",
     "static/media/nz_botanic_garden_waxeye.jpg": "/static/media/nz_botanic_garden_waxeye.cfce34dce435ff728cba.jpg",
     "static/media/nz_cornwall_samoyed2.jpg": "/static/media/nz_cornwall_samoyed2.47c620401a8f4b57efa4.jpg",
     "static/media/nz_auckand_cornwall_park_cicada.jpg": "/static/media/nz_auckand_cornwall_park_cicada.d9276031c6bf4e853f64.jpg",
@@ -131,10 +133,10 @@
     "index.html": "/index.html",
     "static/media/shutter.svg": "/static/media/shutter.d5f06605e7f4af3dffe2509841e5664f.svg",
     "main.f9b241b2.css.map": "/static/css/main.f9b241b2.css.map",
-    "main.a8974b32.js.map": "/static/js/main.a8974b32.js.map"
+    "main.dde55a0e.js.map": "/static/js/main.dde55a0e.js.map"
   },
   "entrypoints": [
     "static/css/main.f9b241b2.css",
-    "static/js/main.a8974b32.js"
+    "static/js/main.dde55a0e.js"
   ]
 }
