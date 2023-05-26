@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bc7c8ec7.css",
-    "main.js": "/static/js/main.376bec3f.js",
+    "main.js": "/static/js/main.3b2946fe.js",
     "static/media/home-banner2.jpg": "/static/media/home-banner2.9cf279a48d3fae05a287.jpg",
     "static/media/footer_city_white.png": "/static/media/footer_city_white.1469854d97e1a2f68009.png",
     "static/media/nz_mount_ruapehu_snowboard.jpg": "/static/media/nz_mount_ruapehu_snowboard.2966d0641e6f52f3fcc6.jpg",
@@ -71,7 +71,6 @@
     "static/media/au_sydney_operahouse_night.jpg": "/static/media/au_sydney_operahouse_night.8aa5cd8c9b254e8ce04d.jpg",
     "static/media/au_sydney_lemur1.jpg": "/static/media/au_sydney_lemur1.fb08e952b44e593000d5.jpg",
     "static/media/au_sydney_tiger.jpg": "/static/media/au_sydney_tiger.89fa714850e63c0e12b7.jpg",
-    "static/media/celestial_symphony.jpg": "/static/media/celestial_symphony.b4d0c8e267e8d3eac49c.jpg",
     "static/media/au_sydney_snake.jpg": "/static/media/au_sydney_snake.7c911968cf9d28e8477f.jpg",
     "static/media/nz_the_scratch.jpg": "/static/media/nz_the_scratch.8e4208f6763a76503621.jpg",
     "static/media/au_melbourne_wullabie.jpg": "/static/media/au_melbourne_wullabie.4187ddca9e01c5ec4336.jpg",
@@ -106,6 +105,7 @@
     "static/media/nz_cornwall_cherry_blossoms.jpg": "/static/media/nz_cornwall_cherry_blossoms.8e613c4146bdfb07157c.jpg",
     "static/media/nz_portrait3.jpg": "/static/media/nz_portrait3.975d5738f12223bad9b7.jpg",
     "static/media/nz_working.jpg": "/static/media/nz_working.b027db69920512fc5952.jpg",
+    "static/media/celestial_symphony.jpg": "/static/media/celestial_symphony.307adb733221dafc7ef4.jpg",
     "static/media/nz_bastion_point_city.jpg": "/static/media/nz_bastion_point_city.fc5208710fcd007e7796.jpg",
     "static/media/au_sydney_roadsign2.jpg": "/static/media/au_sydney_roadsign2.fd3451a8b554a05ab485.jpg",
     "static/media/nz_piha_lion_rock.jpg": "/static/media/nz_piha_lion_rock.c8d489d429450a19ee15.jpg",
@@ -140,10 +140,10 @@
     "index.html": "/index.html",
     "static/media/shutter.svg": "/static/media/shutter.d5f06605e7f4af3dffe2509841e5664f.svg",
     "main.bc7c8ec7.css.map": "/static/css/main.bc7c8ec7.css.map",
-    "main.376bec3f.js.map": "/static/js/main.376bec3f.js.map"
+    "main.3b2946fe.js.map": "/static/js/main.3b2946fe.js.map"
   },
   "entrypoints": [
     "static/css/main.bc7c8ec7.css",
-    "static/js/main.376bec3f.js"
+    "static/js/main.3b2946fe.js"
   ]
 }
