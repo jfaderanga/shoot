@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bc7c8ec7.css",
-    "main.js": "/static/js/main.1dd1e27d.js",
+    "main.js": "/static/js/main.c3d37bfe.js",
     "static/media/home-banner2.jpg": "/static/media/home-banner2.9cf279a48d3fae05a287.jpg",
     "static/media/footer_city_white.png": "/static/media/footer_city_white.1469854d97e1a2f68009.png",
     "static/media/nz_mount_ruapehu_snowboard.jpg": "/static/media/nz_mount_ruapehu_snowboard.2966d0641e6f52f3fcc6.jpg",
@@ -47,7 +47,6 @@
     "static/media/au_sydney_lizard.jpg": "/static/media/au_sydney_lizard.2255fff5e34e6f0a2dc8.jpg",
     "static/media/nz_haverstock_clouds3.jpg": "/static/media/nz_haverstock_clouds3.ac8b9cc261e87a3b08a5.jpg",
     "static/media/nz_haverstock_clouds.jpg": "/static/media/nz_haverstock_clouds.798441d9f80fb2191815.jpg",
-    "static/media/nz_musickpoint_kingfisher.jpg": "/static/media/nz_musickpoint_kingfisher.41aa2950b4930bfa888f.jpg",
     "static/media/au_sydney_harbour_bridge_under.jpg": "/static/media/au_sydney_harbour_bridge_under.e5faddd994fb1dfff883.jpg",
     "static/media/au_sydney_otter1.jpg": "/static/media/au_sydney_otter1.9957b7bc81ab27d83309.jpg",
     "static/media/au_melbourne_bird.jpg": "/static/media/au_melbourne_bird.1069405cb113055ab363.jpg",
@@ -61,6 +60,7 @@
     "static/media/nz_musickpoint_deadtree2.jpg": "/static/media/nz_musickpoint_deadtree2.bc81507d879b546c7316.jpg",
     "static/media/nz_hamilton_hobbit_barrel.jpg": "/static/media/nz_hamilton_hobbit_barrel.013d783ff0b101983a6f.jpg",
     "static/media/nz_ponsonby_wharf.jpg": "/static/media/nz_ponsonby_wharf.d6599a682d6c3f495c2c.jpg",
+    "static/media/nz_musickpoint_kingfisher.jpg": "/static/media/nz_musickpoint_kingfisher.105874a39b5f7b8e4262.jpg",
     "static/media/au_melbourne_meerkat1.jpg": "/static/media/au_melbourne_meerkat1.1680b692bb32c0d46b3d.jpg",
     "static/media/au_melbourne_butterfly.jpg": "/static/media/au_melbourne_butterfly.633b4c828c0a834ff532.jpg",
     "static/media/nz_shock.jpg": "/static/media/nz_shock.25c4488f6e207aecea61.jpg",
@@ -144,10 +144,10 @@
     "index.html": "/index.html",
     "static/media/shutter.svg": "/static/media/shutter.d5f06605e7f4af3dffe2509841e5664f.svg",
     "main.bc7c8ec7.css.map": "/static/css/main.bc7c8ec7.css.map",
-    "main.1dd1e27d.js.map": "/static/js/main.1dd1e27d.js.map"
+    "main.c3d37bfe.js.map": "/static/js/main.c3d37bfe.js.map"
   },
   "entrypoints": [
     "static/css/main.bc7c8ec7.css",
-    "static/js/main.1dd1e27d.js"
+    "static/js/main.c3d37bfe.js"
   ]
 }
