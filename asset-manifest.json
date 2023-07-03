@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.bc7c8ec7.css",
-    "main.js": "/static/js/main.fdfdf384.js",
+    "main.js": "/static/js/main.9b4deb7f.js",
     "static/media/home-banner2.jpg": "/static/media/home-banner2.9cf279a48d3fae05a287.jpg",
     "static/media/footer_city_white.png": "/static/media/footer_city_white.1469854d97e1a2f68009.png",
-    "static/media/starttrail_milkyway.jpg": "/static/media/starttrail_milkyway.0e52560deb66c0bf742f.jpg",
+    "static/media/nz_magazine_bay_wharf_starttrail.jpg": "/static/media/nz_magazine_bay_wharf_starttrail.0e52560deb66c0bf742f.jpg",
     "static/media/nz_mount_ruapehu_snowboard.jpg": "/static/media/nz_mount_ruapehu_snowboard.2966d0641e6f52f3fcc6.jpg",
     "static/media/nz_hamilton_happy.jpg": "/static/media/nz_hamilton_happy.5a4350e55ae083797d54.jpg",
     "static/media/au_sydney_operahouse_city.jpg": "/static/media/au_sydney_operahouse_city.7d9f3db11d4a14829747.jpg",
@@ -108,6 +108,7 @@
     "static/media/nz_magazine_bay_wharf_beaming.jpg": "/static/media/nz_magazine_bay_wharf_beaming.bf259a26cf4836f7364f.jpg",
     "static/media/nz_portrait3.jpg": "/static/media/nz_portrait3.975d5738f12223bad9b7.jpg",
     "static/media/nz_working.jpg": "/static/media/nz_working.b027db69920512fc5952.jpg",
+    "static/media/nz_haverstock_moon.jpg": "/static/media/nz_haverstock_moon.eeb4134de14eb5433e99.jpg",
     "static/media/nz_celestial_symphony.jpg": "/static/media/nz_celestial_symphony.307adb733221dafc7ef4.jpg",
     "static/media/nz_bastion_point_city.jpg": "/static/media/nz_bastion_point_city.fc5208710fcd007e7796.jpg",
     "static/media/au_sydney_roadsign2.jpg": "/static/media/au_sydney_roadsign2.fd3451a8b554a05ab485.jpg",
@@ -145,10 +146,10 @@
     "index.html": "/index.html",
     "static/media/shutter.svg": "/static/media/shutter.d5f06605e7f4af3dffe2509841e5664f.svg",
     "main.bc7c8ec7.css.map": "/static/css/main.bc7c8ec7.css.map",
-    "main.fdfdf384.js.map": "/static/js/main.fdfdf384.js.map"
+    "main.9b4deb7f.js.map": "/static/js/main.9b4deb7f.js.map"
   },
   "entrypoints": [
     "static/css/main.bc7c8ec7.css",
-    "static/js/main.fdfdf384.js"
+    "static/js/main.9b4deb7f.js"
   ]
 }
