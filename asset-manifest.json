@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3fd5a5f8.css",
-    "main.js": "/static/js/main.fa91da43.js",
+    "main.js": "/static/js/main.da6a5cf7.js",
     "static/media/home-banner2.jpg": "/static/media/home-banner2.9cf279a48d3fae05a287.jpg",
     "static/media/footer_city_white.png": "/static/media/footer_city_white.1469854d97e1a2f68009.png",
     "static/media/nz_magazine_bay_wharf_starttrail.jpg": "/static/media/nz_magazine_bay_wharf_starttrail.0e52560deb66c0bf742f.jpg",
@@ -146,10 +146,10 @@
     "index.html": "/index.html",
     "static/media/shutter.svg": "/static/media/shutter.d5f06605e7f4af3dffe2509841e5664f.svg",
     "main.3fd5a5f8.css.map": "/static/css/main.3fd5a5f8.css.map",
-    "main.fa91da43.js.map": "/static/js/main.fa91da43.js.map"
+    "main.da6a5cf7.js.map": "/static/js/main.da6a5cf7.js.map"
   },
   "entrypoints": [
     "static/css/main.3fd5a5f8.css",
-    "static/js/main.fa91da43.js"
+    "static/js/main.da6a5cf7.js"
   ]
 }
